@@ -1,0 +1,549 @@
+{
+    "packages": {
+        "coating": {
+            "name": "Coating/Sealant Packages",
+            "image": "images/packages/coating/dponestep.jpg",
+            "url": "coating",
+            "packages": [
+                {
+                    "name": "DYR One Step Polish, and Seal",
+                    "description": "DYR One-Step Polish and Seal: A fast-track to brilliance and protection. Our expert service enhances your vehicle's gloss, slickness and guards it against the elements, all in one efficient package. Discover the ease of lasting beauty with DYR AutoCare.",
+                    "includes": [
+                        "Exterior detail and all prepping included.", 
+                        "Includes one step machine polish that will enhance gloss and slickness, also helps remove minor imperfections by giving the paint a light correction (40-60%)", 
+                        "Provides up to 12 months of protection against environmental contaminants and helps keep the paint maintained easier.", 
+                        "Cleaning floor matts/Carpet matts, light vacuuming"
+                    ],
+                    "price": ["Car - $195", "SUV/Truck/Van - $220"],
+                    "video": "images/packages/coating/video1.mov",
+                    "image": "images/packages/coating/dponestep.jpg"
+                },
+                {
+                    "name": "One Step Polish, and Ceramic Coating",
+                    "description": "If you're seeking gloss, unmatched smoothness, and high-quality ceramic coating protection, then this package is for you.",
+                    "includes": [
+                        "Exterior detail and all prepping included.",
+                        "One step polish - enhances the gloss, slickness", 
+                        "(3 year) ceramic coating on the paint/trim, headlights, taillights", 
+                        "Quick interior door panel/door sills wipe down, and light vacuum", 
+                        "Rubber matt cleaning"
+                    ],
+                    "price": ["Prices range from ($435 - $750)"],
+                    "video": "images/packages/coating/video2.mov",
+                    "image": "images/packages/coating/dppolish.jpg"
+    
+                },
+                {
+                    "name": "Stage 1 - Ceramic Coating",
+                    "description": "Introducing our one-step paint correction package—ideal for newer or lightly scratched cars with swirl marks. Experience a remarkable 50-70% reduction in paint defects, leaving your vehicle with a glossy and stunning finish. Also securing your vehicle with a top-tier ceramic coating for lasting protection. Elevate the look of your car with our.",
+                    "includes": [
+                        "Exterior detail and all prepping included.", 
+                        "One Step paint correction removing minor scratches and swirls in the paint.", 
+                        "(5 year) ceramic coating on the paint/trim, headlights, taillights", 
+                        "Light interior wipe down, and light vacuum", 
+                        "Rubber matt cleaning"
+                    ],
+                    "price": ["Prices range from ($640 - $875)"],
+                    "image": "images/packages/coating/picture6.jpg"
+                },
+                {
+                    "name": "Stage 2 - Ceramic Coating",
+                    "description": "We are proud to present our elite solution for heavily swirled and scratched paint - a comprehensive package that precisely eliminates 80-95% or more of defects in the paint. Enjoy the breathtaking finish, which is topped off with our 5-year ceramic coating, offering top-tier protection and an unmatched combination of slickness and gloss.",
+                    "includes": [
+                        "Exterior detail and all prepping included.", 
+                        "2 stage cut/ polish (80-95%) correction", 
+                        "(5 year) ceramic coating on the paint/trim, headlights, taillights, rear and front windows (windshield not included)",
+                        "Light interior wipe down"
+                    ],
+                    "price": ["Prices range from ($750 - 1,300)"],
+                    "video": "images/packages/coating/video3.mov",
+                    "image": "images/packages/coating/stage2ceramic.jpg"
+                },
+                {
+                    "name": "DYR Clay & Coat",
+                    "description": "Discover a superior paint protection solution that guarantees outstanding water beading, swift water sheeting, and an enhanced glossy finish. Look no further than our Clay and Coat package for a premier solution in preserving and enhancing the aesthetic appeal of your vehicle's paint.",
+                    "includes": [
+                        "Exterior detail and all prepping included.", 
+                        "(3 year) ceramic coating",
+                         "(5 year) ceramic coating"
+                    ],
+                    "price": ["Prices range from ($365 - $700)"],
+                    "image": "images/packages/coating/image0.jpeg"
+                }
+            ]
+        },
+        "interior": {
+            "name": "Interior Packages",
+            "image": "images/packages/interior/picture8.jpg",
+            "url": "interior",
+            "packages": [
+                {
+                    "name": "DYR Basic Detail",
+                    "description": "If you're seeking a light cleaning solution or have recently received one of our more comprehensive interior detailing services, and simply require a swift maintenance clean to uphold the pristine condition of your vehicle, then this service is tailored perfectly for your needs.",
+                    "includes": [
+                        "Light vacuuming", 
+                        "Interior door panels/ interior surfaces wipe down", 
+                        "Fabric seat light wipe down, leather seats cleaning", 
+                        "Window cleaning"
+                    ],
+                    "addons": [
+                        "2 Seater shampoo $24",
+                        "5 Seater shampoo starting from $60", 
+                        "Carpet matts shampooed - $12 per matt",
+                         "Steam cleaning - $40",
+                          "Headliner cleaned- $35", 
+                          "Pet hair removal - ($ price given in person)", 
+                          "Leather cleaned and conditioned - $40"
+                    ],
+                    "price": ["Car - $65", "SUV/Truck/Van - $79"],
+                    "image": "images/packages/interior/picture8.jpg"
+                },
+                {
+                    "name": "DYR Full Interior Package",
+                    "description": "Give your vehicle the VIP treatment with our Full Interior Package! We'll do a thorough vacuuming, work our magic on all surfaces, make those windows sparkle, clean those door jams, and give your mats some extra attention. In addition, we will add a refreshing scent to make your car feel and smell brand new.",
+                    "includes": [
+                        "Deep vacuuming", 
+                        "All interior surfaces will be cleaned and dressed", 
+                        "Window cleaning", 
+                        "Door jambs cleaned",
+                        "Rubber/carpet matts cleaned", 
+                        "Refreshing car odors sprayed + air freshener"
+                    ],
+                    "addons": [
+                        "2 Seater shampoo $24", 
+                        "5 Seater shampoo starting from $60", 
+                        "Carpet matts shampooed - $12 per matt", 
+                        "Steam cleaning - $40", 
+                        "Headliner cleaned- $35", 
+                        "Pet hair removal - ($ price given in person)", 
+                        "Leather cleaned and conditioned - $40"
+                    ],
+                    "price": ["Car - starting $ 100 & Suv/truck/van - starting $120"],
+                    "image": "images/packages/interior/picture9.jpg"
+                }
+            ]
+        },
+        "exterior": {
+            "name": "Exterior Packages",
+            "image": "images/packages/exterior/dyrstandard.jpg",
+            "url": "exterior",
+            "packages": [
+                {
+                    "name": "DYR Standard Wash",
+                    "description": "Our standard wash package will have your vehicle looking pristine and new. The foam bath will leave your vehicle sparkling, and our thorough contact wash will ensure that every inch is spotless. We will also take care of your wheels and tires, leaving them looking good as new.",
+                    "includes": [
+                        "Foam bath", 
+                        "Contact wash", 
+                        "Wheel cleaning + Tire dressing", 
+                        "Window cleaning"
+                    ],
+                    "addons": [
+                        "Headlight restoration - $90", 
+                        "Trim restoration - $215 (Includes trim cleaning, followed up with a trim coating (3+ years of longevity)", 
+                        "Engine Bay Detail - $75", 
+                        "Windshield coating - $85", 
+                        "Wheel face coating - $280"
+                    ],
+                    "price": ["Car - $65", "SUV/Truck/Van - $75"],
+                    "image": "images/packages/exterior/dyrstandard.jpg",
+                    "video": "images/packages/exterior/video4.mov"
+                },
+                {
+                    "name": "DYR Royal Wash",
+                    "description": "Treat your vehicle like royalty with our Royal Wash. Building on the Standard package, it includes iron and clay decontamination for a flawless exterior. Seal the deal with a 4-month spray-on sealant, ensuring enduring protection and a stunning finish.",
+                    "includes": [
+                        "Foam bath", 
+                        "Contact wash", 
+                        "Wheel cleaning + Tire dressing", 
+                        "Window cleaning",
+                         "Iron decon+Clay decon", 
+                         "4 month Spray on sealant"
+                    ],
+                    "addons": [
+                        "2 Seater shampoo $24", 
+                        "5 Seater shampoo starting from $60", 
+                        "Carpet matts shampooed - $12 per matt", 
+                        "Steam cleaning - $40", 
+                        "Headliner cleaned- $35", 
+                        "Pet hair removal - ($ price given in person)", 
+                        "Leather cleaned and conditioned - $40"
+                    ],
+                    "price": ["Car - $90", "SUV/Truck/Van - $115"],
+                    "image": "images/packages/exterior/dyrroyal.jpg",
+                    "video": "images/packages/exterior/video5.mov"
+                }
+            ]
+        },
+        "fullpackages": {
+            "name": "Full Packages",
+            "image": "images/packages/fullpackages/dyrcomplete.jpg",
+            "url": "fullpackages",
+            "packages": [
+                {
+                    "name": "DYR Complete Package",
+                    "description": "Enjoy our complete package for a full car spa experience. Treat your vehicle to an exterior foam bath, contact wash, wheel and tire cleaning, and a tire dressing. Seal the deal with a 1-2 month spray application for a flawless finish. Inside, experience the luxury of deep vacuuming and interior shampooing for a spotless interior.",
+                    "includes": [
+                        "Pre wash + foam bath + contact wash", 
+                        "Thorough wheel clean + Tire dressing", "(1-2 month) spray sealant applied", 
+                        "Window cleaning", 
+                        "Door Jams degreased/cleaned", 
+                        "Deep vacuuming", 
+                        "Interior shampoo", 
+                        "All interior surfaces will be cleaned and dressed", 
+                        "Rubber/carpet matts cleaned", 
+                        "Refreshing car odors sprayed + air freshener"
+                    ],
+                    "price": ["Starting at $275 + tax"],
+                    "image": "images/packages/fullpackages/dyrcomplete.jpg",
+                    "video": "images/packages/fullpackages/video6.mov"
+                },
+                {
+                    "name": "DYR Starting Package",
+                    "description": "Our Starting package includes an exterior and interior refresh.  It includes a foam bath and contact wash for a gentle yet effective exterior clean, a light interior vacuum, an interior wipe down, and a refreshing mist that eliminates odors. Choose excellence for your vehicle with a tailored selection for maximum care.",
+                    "includes": [
+                        "Foam bath + contact wash", 
+                        "Thorough wheel clean + Tire dressing", 
+                        "Window cleaning", 
+                        "Light interior vacuum",
+                         "Interior wipe down", 
+                         "Rubber/carpet matts cleaned", 
+                         "Refreshing car odors sprayed", 
+                         "Door jams cleaned"
+                    ],
+                    "price": ["Starting at $125 + tax"],
+                    "image": "images/packages/fullpackages/dyrstarting.jpg",
+                    "video": "images/packages/fullpackages/video7.mov"
+                },
+                {
+                    "name": "DYR Basic IN&OUT",
+                    "description": "Introducing our Basic IN&OUT package—a professional detailing package curated for efficiency and excellence. Experience a thorough foam bath and contact wash for the exterior, complemented by a light interior vacuum and quick Interior wipedown.",
+                    "includes": [
+                        "Foam bath + contact wash", 
+                        "Light Interior vacuum", 
+                        "Quick interior wipedown", 
+                        "Wheel clean + Tire dressing"
+                    ],
+                    "price": ["Starting at $95"],
+                    "image": "images/packages/fullpackages/dyrbasic.jpg",
+                    "video": "images/packages/fullpackages/video8.mov"
+                }
+            ]
+        }
+    },
+    "faqs": [
+        {
+            "question": "What is a Ceramic Coating?",
+            "answers": [
+                "Some of the more recent protection technologies for your vehicles are ceramic coatings, which typically contain silica dioxide, a polymer that is incredibly hard and similar to glass. Applying a ceramic coating results in a thick glass life layer that shields your car's paint, giving it an amazing deep gloss and durability. Unlike waxes and sealants, ceramic coatings are resistant to chemicals and detergents, and when properly maintained, ceramic coatings can last several years.", 
+                "Ceramic coatings are notable for their exceptionally low slip angle, which causes water to bead and sheet off non-level surfaces. It also makes maintaining your vehicle's exterior much easier and safer because dirt has a hard time sticking, and due to the hardness of the coating, it reduces the fine scratches and swirls caused by washing but will not prevent something like a (rock chip)."
+            ],
+            "image": "images/faq/image1.jpg"
+        },
+        {
+            "question": "Why should you protect your vehicle's paint?",
+            "answers": [
+                "Your vehicle's paint consists of a layered structure, including a primer layer, a base-coat or colour layer, and the final clear coat layer. The clear coat is crucial for providing the shine and depth to your vehicle. If you choose not to protect this layer the exterior of your vehicle will start to deteriorate very quickly.", 
+                "Your car is exposed to a variety of environmental elements, such as UV rays from the sun, the dirt, salt, and debris from the roads, tree sap, acid rain, and bird droppings. All of these things will oxidize the paint on your car and leave it looking awful. Think about a ceramic coating as an invisible layer of sacrificial protection that will absorb damage in place of your clear coat layer."
+            ],
+            "image": "images/faq/faqpaint.jpg",
+            "video": "images/faq/Video9.mov"
+        },
+        {
+            "question": "How to keep your Ceramic Coated vehicle maintained?",
+            "answers": [
+                "Inadequate methods of exterior car washing can lead to scratches and swirls, which can be made worse by things like using automatic car washes. Despite their good intentions, these bristle brushes can cause more harm than good, as they carry contaminants and undergo constant use. When time is of the essence, a touchless wash is a better option though it may not achieve perfection. Consider washing your car atleast once a month, preferably two or three times, using the right washing techniques to reduce damage.", 
+                {"details": ["Recommend to use the two bucket method, wash bucket and rinse.( with grit guards)", "Foam up the vehicle before you attempt the contact-wash", "Always use a soft mitt instead of bristle brushes", "When using your mitt on the paint make sure you do not go in circular motions instead go in straight lines(linear motions)", "Wash your mitt in your bucket after every 1-3 panels to ensure you have no trapped dirt in your mitt while using it on your paint", "Use safe Ph balanced soaps"]}, 
+                "All of these tips will help you minimize your chances of adding swirls or scratches to your paint. For optimal longevity of your car's ceramic coating, consider enrolling in our Ceramic Maintenance Plan. This comprehensive plan includes a twice a month exterior wash and a specialized ceramic maintenance wash every six months.", 
+                "To be eligible for this program, individuals must have undergone our ceramic coating services or have upcoming plans to do so. For more information, please feel free to contact us."
+            ],
+            "image": "images/faq/faqceramic.jpg",
+            "video": "images/faq/Video10.mov"
+        },
+        {
+            "question": "Why is windshield coating beneficial?",
+            "answers": [
+                "When driving at speeds exceeding 50 kilometers per hour in adverse weather conditions, our advanced windshield coating ensures rapid water beading or sheeting, minimizing the need for frequent wiper blade use. This not only improves visibility but also enhances overall driving safety and security. The coating's easy-to-clean properties simplify maintenance washes, while its resistance to chemicals from pH 4 to pH 12, coupled with a water drop sliding angle of less than 20 degrees and extreme abrasion resistance, guarantees long-lasting protection for your windshield. Our highly advanced windshield coating service increases performance and durability."
+            ],
+            "image": "images/faq/faqwindshield.jpg",
+            "video": "images/faq/Video11.mov"
+        },
+        {
+            "question": "Is it a good idea to have your wheels ceramic coated?",
+            "answers": [
+                "Thanks to the self-cleaning properties in wheel ceramic coatings, it significantly reduces the time required to maintain pristine wheels, especially those with intricate patterns. The coating's effective resistance against dirt, debris, dust, and brake dust minimizes their bonding to the wheels. Additionally, it boasts impressive chemical resistance and can withstand temperatures exceeding 800°C. With a long-lasting protective layer, the ceramic coating offers durability for up to 12 months, potentially extending to 24 months with proper wheel maintenance. This not only guarantees a consistently sparkling and well-protected look, but also contributes to the overall longevity of the wheels and brakes, making it a compelling choice for wheel care enthusiasts."
+            ],
+            "image": "images/faq/faq_after.jpg"
+        },
+        {
+            "question" : "What benefits does professional leather cleaning and conditioning offer for my vehicles?",
+            "answers": [
+                "Our professional leather cleaning and conditioning service ensures the revitalization, preservation, and maintenance of your vehicle's leather seats. Our precise process not only prevents fading and cracking over time, but it also provides UV protection. We use a leather conditioner that effectively replenishes moisture, giving the leather a supple and soft feel without any slipperiness. In addition, it gives your leather seats/ interior a natural, refined appearance, ensuring they remain in top condition."
+            ],
+            "image": "images/faq/faqleather.jpg",
+            "video": "images/faq/faq6.mov"
+        }
+    ],
+    "gallery": {
+        "beforeAfter": [
+            {"before": "images/gallery2/beforeAfter/bf1.jpg", "after": "images/gallery2/beforeAfter/af1.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf2.jpg", "after": "images/gallery2/beforeAfter/af2.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf3.jpg", "after": "images/gallery2/beforeAfter/af3.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf4.jpg", "after": "images/gallery2/beforeAfter/af4.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf5.jpg", "after": "images/gallery2/beforeAfter/af5.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf6.jpg", "after": "images/gallery2/beforeAfter/af6.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf7.jpg", "after": "images/gallery2/beforeAfter/af7.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf8.jpg", "after": "images/gallery2/beforeAfter/af8.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf9.jpg", "after": "images/gallery2/beforeAfter/af9.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf10.jpg", "after": "images/gallery2/beforeAfter/af10.jpg"}, 
+            {"before": "images/gallery2/beforeAfter/bf11.jpg", "after": "images/gallery2/beforeAfter/af11.jpg"}
+        ],
+        "slideShow": [
+            "images/gallery2/videoSlideShow/svid1.mov", 
+            "images/gallery2/videoSlideShow/svid12.mov", 
+            "images/gallery2/videoSlideShow/svid13.mov", 
+            "images/gallery2/videoSlideShow/svid2.mov", 
+            "images/gallery2/videoSlideShow/svid3.mov", 
+            "images/gallery2/videoSlideShow/svid4.mov", 
+            "images/gallery2/videoSlideShow/svid5.mov", 
+            "images/gallery2/videoSlideShow/svid6.mov", 
+            "images/gallery2/videoSlideShow/svid7.mov", 
+            "images/gallery2/videoSlideShow/svid8.mov", 
+            "images/gallery2/videoSlideShow/svid11.mov", 
+            "images/gallery2/videoSlideShow/svid14.mov", 
+            "images/gallery2/videoSlideShow/svid15.mov", 
+            "images/gallery2/videoSlideShow/svid16.mov"
+        ],
+        "interior": [
+            "images/gallery2/newpictures/interior1.jpg",
+            "images/gallery2/newpictures/interior2.jpg",
+            "images/gallery2/newpictures/interior3.jpg",
+            "images/gallery2/newpictures/interior4.jpg",
+            "images/gallery2/newpictures/interior5.jpg",
+            "images/gallery2/newpictures/interior6.jpg",
+            "images/gallery2/newpictures/interior7.jpg",
+            "images/gallery2/newpictures/interior8.jpg",
+            "images/gallery2/newpictures/interior9.jpg",
+            "images/gallery2/newpictures/interior10.jpg",
+            "images/gallery2/newpictures/interior11.jpg",
+            "images/gallery2/newpictures/interior12.jpg",
+            "images/gallery2/newpictures/interior13.jpg",
+            "images/gallery2/newpictures/interior14.jpg",
+            "images/gallery2/newpictures/interior15.jpg",
+            "images/gallery2/newpictures/interior16.jpg",
+            "images/gallery2/newpictures/interior17.jpg",
+            "images/gallery2/newpictures/interior18.jpg",
+            "images/gallery2/newpictures/interior19.jpg",
+            "images/gallery2/newpictures/interior20.jpg",
+            "images/gallery2/newpictures/interior21.jpg",
+            "images/gallery2/newpictures/interior22.jpg",
+            "images/gallery2/newpictures/interior23.jpg",
+            "images/gallery2/newpictures/interior24.jpg",
+            "images/gallery2/newpictures/interior25.jpg",
+            "images/gallery2/newpictures/interior26.jpg",
+            "images/gallery2/newpictures/interior27.jpg",
+            "images/gallery2/newpictures/interior28.jpg",
+            "images/gallery2/newpictures/interior29.jpg",
+            "images/gallery2/newpictures/interior30.jpg",
+            "images/gallery2/newpictures/interior31.jpg",
+            "images/gallery2/newpictures/interior32.jpg"
+        ],
+        "exterior2": [
+            "images/gallery2/newpictures/exterior29.jpg",
+            "images/gallery2/newpictures/exterior30.jpg",
+            "images/gallery2/newpictures/exterior31.jpg",
+            "images/gallery2/newpictures/exterior32.jpg",
+            "images/gallery2/newpictures/exterior33.jpg",
+            "images/gallery2/newpictures/exterior34.jpg",
+            "images/gallery2/newpictures/exterior1.jpg",
+            "images/gallery2/newpictures/exterior2.jpg",
+            "images/gallery2/newpictures/exterior3.jpg",
+            "images/gallery2/newpictures/exterior9.jpg",
+            "images/gallery2/newpictures/exterior10.jpg",
+            "images/gallery2/newpictures/exterior11.jpg",
+            "images/gallery2/newpictures/exterior20.jpg",
+            "images/gallery2/newpictures/exterior21.jpg",
+            "images/gallery2/newpictures/exterior22.jpg",
+            "images/gallery2/newpictures/exterior12.jpg",
+            "images/gallery2/newpictures/exterior13.jpg",
+            "images/gallery2/newpictures/exterior14.jpg",
+            "images/gallery2/newpictures/exterior4.jpg",
+            "images/gallery2/newpictures/exterior7.jpg",
+            "images/gallery2/newpictures/exterior8.jpg",
+            "images/gallery2/newpictures/exterior5.jpg",
+            "images/gallery2/newpictures/exterior16.jpg",
+            "images/gallery2/newpictures/exterior17.jpg",
+            
+            "images/gallery2/newpictures/exterior18.jpg",
+            "images/gallery2/newpictures/exterior24.jpg",
+
+            "images/gallery2/newpictures/exterior25.jpg",
+            "images/gallery2/newpictures/exterior26.jpg",
+            
+            
+            "images/gallery2/newpictures/exterior27.jpg",
+            "images/gallery2/newpictures/exterior28.jpg",
+
+            "images/gallery2/newpictures/exterior23.jpg",
+            "images/gallery2/newpictures/exterior19.jpg",
+            
+            "images/gallery2/newpictures/exterior6.jpg",
+            "images/gallery2/newpictures/exterior15.jpg"
+
+            
+            
+        ]
+    },
+    "categories": [
+        { "id": 0, "name": "Exterior Packages", "tabName": "Exterior", "singular": "Exterior Package", "codeName": "exterior", "image": "images/gallery2/packages/ceramicwash.jpg"},
+        { "id": 1, "name": "Interior Packages", "tabName": "Interior", "singular": "Interior Package", "codeName": "interior", "image": "images/gallery2/packages/fullinterior.jpg"},
+        { "id": 2, "name": "Full Packages", "tabName": "Full Packages", "singular": "Full Package", "codeName": "full", "image": "images/gallery2/packages/basicplus.jpg"},
+        { "id": 3, "name": "Enhance & Seal", "tabName": "Enhance & Seal", "codeName": "enhance", "image": "images/gallery2/packages/enhanceseal.jpg"},
+        { "id": 4, "name": "Paint Correction", "tabName": "Paint Correction", "codeName": "paint", "image": "images/gallery2/packages/paintcorrectionmain.jpg"},
+        { "id": 5, "name": "Ceramic Coating", "tabName": "Ceramic Coating", "codeName": "coating", "image": "images/gallery2/packages/ceramicmain.jpg"}
+
+    ],
+    "homeSlideShow": [
+        "images/gallery2/homeSlideShow/home1.jpg",
+        "images/gallery2/packages/paintcorrectionmain.jpg"
+    ],
+    "packagesNew": [
+        {
+            "id": 0,
+            "name": "Basic Wash",
+            "categoryId": 0,
+            "price": ["Coupes /Sedans/Hatchback $45", "Suv/Trucks $65"],
+            "includes": ["Foam bath",  "Contact wash" , "Tires/Wheels cleaned + Tire shine", "Glass cleaned"],
+            "image": "images/gallery2/packages/basicwash.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Ceramic Wash",
+            "categoryId": 0,
+            "price": ["Coupes/Sedans $70", "Suv/Trucks $90"],
+            "description": "Unlock a 3-month shield and a deep, glossy finish with our exterior wash and ceramic sealant",
+            "includes": [],
+            "addons": ["Engine Bay detail $50", "Clay/iron Decontamination $70", "Front Windshield coating $135 (lasts up to 20,000 miles)"],
+            "image": "images/gallery2/packages/ceramicwash.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Basic Detail",
+            "categoryId": 1,
+            "price": ["Coupes/Sedans $60", "Suv/Trucks $75"],
+            "includes": ["Basic interior wipe down", "Light vacuum", "Floor matts cleaned"],
+            "image": "images/gallery2/packages/basicdetail.jpg"
+        }, 
+        {
+            "id": 3,
+            "name": "Full Interior Detail",
+            "categoryId": 1,
+            "price": ["Coupes/Sedans $110", "Suv/Trucks $135"],
+            "includes": ["Interior surfaces cleaned and dressed", "Floor matts cleaned", "Thorough vacuum", "Glass cleaned", "Door/Trunk Jams cleaned"],
+            "addons": ["Steam cleaning $40", "Leather conditioned $40", "Headliner cleaned $50"],
+            "image": "images/gallery2/packages/fullinterior.jpg"
+        },
+        {
+            "id": 4,
+            "name": "The Basic Plus",
+            "categoryId": 2,
+            "price": ["Coupes/Sedans $135", "Suv/Trucks $170"],
+            "includes": ["Foam bath", "Contact wash", "Wax/protectant", "Tires/wheels and wheel wells cleaned + tires dressed", "Interior wipe down", "Floor mats cleaned", "Light vacuum", "Glass cleaned"],
+            "image": "images/gallery2/packages/basicplus.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Complete Care",
+            "categoryId": 2,
+            "price": ["Pricing starts at $250"],
+            "description": "Ready to make your car look and feel brand new? This package delivers the ultimate refresh, inside and out. From spotless cleaning to a lasting protective finish, we ensure every detail is perfected.",
+            "includes":[],
+            "steps": {
+                "intro": "Here’s a complete rundown of how we deliver this service and what’s covered in each step.",
+                "steps": true,
+                "list": [
+                    "First we inspect the vehicle and carefully transfer any personal items into a bag, which is placed back after the detail. Although we kindly ask that you remove personal belongings prior to the service.",
+                    "We start off by giving the wheels/tires, and wheel wells a thorough cleaning, once all wheels have been cleaned we move on to the body of the vehicle.",
+                    "We foam up your vehicle which effectively loosens and lifts up the grime off the paint, which makes the pressure washing stage a breeze, we then foam up the vehicle again.",
+                    "Once the vehicles foamed up we begin with our contact wash using the (2 bucket method) and detailed brush work , and rinse off. Ensuring we get the vehicle as clean as possible!",
+                    "We apply a maintenance sealant that speeds up drying, adds protection, and enhances gloss. After a thorough rinse, we degrease and clean the door and trunk jams for a spotless finish.",
+                    "Once completed, we dry the vehicle using a combination of air drying to remove water from cracks and crevices, and high-quality towels to ensure a safe and spotless finish.",
+                    "Next, we focus on the interior, starting with the removal and cleaning of the floor mats. We blow out any dirt and debris from every nook and cranny before thoroughly vacuuming the entire vehicle.",
+                    "We then clean all interior surfaces, including the dashboard, screens, gauge clusters, center console, and door panels, along with the glass. Rest assured, we utilize high-quality professional products for both the interior and exterior to guarantee exceptional results.",
+                    "Next, we dress all interior surfaces and clean and condition any leather in the vehicle. We apply our odor-removing sprays and provide a complimentary air freshener and paper mats. Our high-quality interior dressings and leather conditioners contain UV protectants to keep your interior looking fresh and well-protected. Plus, we ensure that our dressings do not leave a shiny or greasy finish."
+                ]
+            },
+            "image": "images/gallery2/packages/completecare.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Enhance & Seal",
+            "categoryId": 3,
+            "price": ["Pricing Starts at $250"],
+            "includes": [],
+            "description": "Looking for that extra shine? This service enhances your paint and removes minor flaws, leaving your vehicle with a brilliant finish and lasting protection.",
+            "steps": {
+                "intro": "Here’s a complete rundown of how we deliver this service and what’s covered in each step.",
+                "steps": true,
+                "list": [
+                    "We start with a thorough wash and decontamination using clay and iron treatments to ensure your vehicle is spotless.",
+                    "After rinsing and drying, we inspect the paint’s condition and measure the thickness of the paint.",
+                    "Our machine polishing step enhances the paint while adding a protective layer.",
+                    "Finally, we dress your tires and plastic trims (if applicable) for a flawless finish."
+                ]
+            },
+            "image":  "images/gallery2/packages/enhanceseal.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Paint Correction",
+            "categoryId": 4,
+            "price": ["Contact us for a quote"],
+            "addons": ["Ceramic Coating", "Ceramic Sealant"],
+            "includes": [],
+            "description": "Dealing with light, medium, or heavy paint imperfections like swirl marks, scratches, or water spots? Paint correction is your best option for achieving a stunning finish. Whether you're looking to eliminate imperfections or simply want a showroom-quality look, our multi-stage paint correction services are perfect for you. Reach out to learn more about our pricing based on your specific requirements.",
+            "note": "*While not mandatory, we highly recommend applying ceramic coating for your vehicle. We offer various options to suit your needs. Ceramic coating provides exceptional gloss and slickness, along with a strong, long-lasting layer of protection against environmental elements. This ensures your paint remains pristine for longer, plus it makes maintenance a breeze.",
+            "image": "images/gallery2/packages/paintcorrectionmain.jpg",
+            "descriptions": [
+                {"text": "Thought your car’s paint was beyond saving? Don’t rush to a costly repaint! Our professional paint correction services can eliminate those unsightly swirls and restore a mirror-like, swirl-free finish that turns heads. Save thousands and fall in love with your car’s shine again.", "image": ["images/gallery2/packages/paintbf1.jpg", "images/gallery2/packages/paintbf2.jpg"]},
+                {"text": "*While not mandatory, we highly recommend applying ceramic coating for your vehicle. We offer various options to suit your needs. Ceramic coating provides exceptional gloss and slickness, along with a strong, long-lasting layer of protection against environmental elements. This ensures your paint remains pristine for longer, plus it makes maintenance a breeze.", "image": ["images/gallery2/packages/paintceramic.jpg"]}
+            ],
+            "beforeAndAfters": [
+                {"before": "images/gallery2/packages/paintbf3.jpg", "after": "images/gallery2/packages/paintaf3.jpg"},
+                {"before": "images/gallery2/packages/paintbf4.jpg", "after": "images/gallery2/packages/paintaf4.jpg"}
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Offering REVIVIFY professional grade coatings",
+            "categoryId": 5,
+            "price": ["Get in contact with us today for more inquiries and a free quote."],
+            "description": "Revivify is a self-healing, liquid-based coating designed for vehicles, providing high-end protection and aesthetic enhancement. It differs from traditional ceramic coatings due to its self-healing properties, allowing minor scratches and swirl marks to disappear under heat.",
+            "options": ["3 year option", "5 year option"],
+            "addons": ["Paint Correction", "Paint Enhancement Polish"],
+            "includes": [],
+            "steps": {
+                "intro": "Benefits from getting Revivify applied onto your vehicle",
+                "steps": false,
+                "stepsList": [
+                    "Self-Healing Technology",
+                    "Unmatched Gloss",
+                    "Durable Protection", 
+                    "Extreme hydrophobic Properties",
+                    "Long-Lasting Performance",
+                    "Resale Value Boost"
+                ],
+                "list": [
+                    "Minor scratches and swirl marks heal when exposed to heat (e.g., sunlight or warm water).",
+                    "Creates a deep, wet-look shine, enhancing the vehicle's appearance.",
+                    "Shields against UV rays, bird droppings, acid rain, and environmental contaminants. Revivify offers 100% UV resistance.",
+                    "Repels water, dirt, and grime, making maintenance a breeze.",
+                    "Lasts up to several years with proper maintenance, offering a high return on investment.",
+                    "Maintains the vehicle's appearance, increasing its resale appeal."
+                ]
+            },
+            "image": "images/gallery2/packages/ceramicmain.jpg",
+            "video": "images/gallery2/packages/ceramicvid.mov",
+            "video2": "images/gallery2/packages/ceramicvid2.mov"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:reset": "prisma migrate reset --force"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.2.0",
+    "@material-tailwind/react": "^2.1.10",
+    "@prisma/client": "^5.22.0",
+    "@tailwindcss/forms": "^0.5.11",
+    "aos": "^2.3.4",
+    "bcryptjs": "^3.0.3",
+    "boxicons": "^2.1.4",
+    "daisyui": "^5.5.19",
+    "next": "14.2.35",
+    "next-auth": "^4.24.13",
+    "nodemailer": "^8.0.2",
+    "prisma": "^5.22.0",
+    "react": "^18",
+    "react-date-range": "^2.0.1",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.35",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}

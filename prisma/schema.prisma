@@ -1,0 +1,41 @@
+// Prisma schema - use DATABASE_URL in .env (e.g. postgresql or sqlite)
+// For SQLite: provider = "sqlite" and url = "file:./dev.db"
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                String    @id @default(cuid())
+  name              String
+  email             String    @unique
+  emailVerified     DateTime? @map("email_verified_at")
+  password          String
+  rememberToken     String?   @map("remember_token")
+  createdAt         DateTime  @default(now()) @map("created_at")
+  updatedAt         DateTime  @updatedAt @map("updated_at")
+}
+
+model PasswordResetToken {
+  email     String   @id
+  token     String
+  createdAt DateTime? @map("created_at")
+}
+
+model Review {
+  id           Int     @id @default(autoincrement())
+  date         String
+  link         String
+  rating       Int
+  review_id    String  @map("review_id")
+  snippet      String
+  username     String
+  userlink     String
+  userreviews  Int     @default(-1)
+  userthumbnail String
+}

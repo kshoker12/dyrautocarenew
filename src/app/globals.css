@@ -1,0 +1,244 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #444444;
+  background: #ffffff;
+}
+
+a {
+  color: #ff4a17;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff724a;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+}
+
+.transition-underline {
+  @apply relative;
+}
+
+.transition-underline::before {
+  @apply absolute left-0 bottom-0 h-[3px] w-full bg-current transform scale-x-0 origin-left transition-transform duration-300 ease-out bg-primary-gold;
+  content: '';
+}
+
+.transition-underline:hover::before,
+.transition-underline:focus::before,
+.transition-underline:active::before {
+  @apply scale-x-100;
+}
+
+.custom-font {
+  font-family: 'CustomFont', sans-serif;
+}
+
+.text-card {
+  @apply text-brown-500 font-thin text-lg;
+}
+
+.section-title {
+  padding-bottom: 40px;
+}
+
+.section-title p {
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+  color: #263d4d;
+}
+
+.contact .review-title {
+  display: flex;
+}
+
+.contact .review-write {
+  display: flex;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.contact {
+  background: url('/images/testimonials-bg.jpg') top center;
+  background-size: cover;
+  padding: 1;
+}
+
+@media (max-width: 768px) {
+  .contact {
+    background: url('/images/vancouver.webp') top center;
+    background-size: cover;
+    padding: 1;
+  }
+}
+
+.contact .info-box {
+  color: #444444;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 20px 0 30px 0;
+}
+
+.contact .info-box i {
+  font-size: 32px;
+  color: #ff4a17;
+  border-radius: 50%;
+  padding: 8px;
+}
+
+.contact .loc-container {
+  display: inline-flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.contact .loc {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.contact .info-box h3 {
+  font-size: 20px;
+  color: #777777;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.contact .info-box p {
+  padding: 0;
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.contact .php-email-form {
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 30px;
+}
+
+@media (max-width: 768px) {
+  .contact .loc-container {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .contact .loc {
+    width: 50%;
+  }
+}
+
+@keyframes animate-loading {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.row {
+  @apply flex flex-wrap -mx-4;
+}
+
+.tw-container {
+  @apply container mx-auto px-4;
+}
+
+.col-lg-6 {
+  @apply w-full lg:w-1/2 px-4;
+}
+
+.col-md-6 {
+  @apply w-full md:w-1/2 px-4;
+}
+
+.col-md-12 {
+  @apply w-full md:w-full px-4;
+}
+
+/* Booking progress steps: 1:1 match with reference (horizontal line, light blue current step, white next, light gray text) */
+.booking-card ul.booking-steps {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+  list-style: none;
+  margin: 1.5rem 0;
+}
+.booking-card ul.booking-steps li.booking-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  flex-grow: 1;
+  position: relative;
+  color: #d1d5db;
+  font-size: 0.875rem;
+  text-align: center;
+  padding-top: 0.25rem;
+  cursor: default;
+}
+.booking-card ul.booking-steps li.booking-step.booking-step-active {
+  cursor: pointer;
+}
+.booking-card ul.booking-steps li.booking-step::before {
+  content: attr(data-content);
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: #374151;
+  background-color: #ffffff;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.booking-card ul.booking-steps li.booking-step.booking-step-active::before {
+  background-color: #00A8F0;
+  color: white;
+}
+.booking-card ul.booking-steps li.booking-step::after {
+  content: '';
+  position: absolute;
+  top: 1rem;
+  left: 50%;
+  width: 100%;
+  height: 2px;
+  background-color: #9ca3af;
+  z-index: 0;
+}
+.booking-card ul.booking-steps li.booking-step:last-child::after {
+  display: none;
+}
+.booking-card ul.booking-steps li.booking-step:not(:last-child)::after {
+  left: calc(50% + 1rem);
+  width: calc(100% - 2rem);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
