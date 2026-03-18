@@ -45,7 +45,7 @@ export function safeRating(value) {
 }
 
 /**
- * Integer 0–5 only. Use this for Material Tailwind Rating's value prop — the library
+ * Integer 0–5 only. Use this for Material Tailwind Rating's value prop — library
  * does Array(value) and Array(count-value); any float or value > 5 causes Invalid array length.
  * @param {unknown} value
  * @returns {number}
